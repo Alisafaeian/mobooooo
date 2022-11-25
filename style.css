@@ -1,0 +1,118 @@
+h1{
+    color:#4062bb ;
+    font-family: sans-serif;
+}
+
+a:link{
+    color: #4062bb;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+* p{
+    color: rgba(148, 8, 8, 0.767);
+    font-family:cursive;
+}
+
+h1{
+    font-style: italic;
+}
+
+a:active{
+    color: pink;
+}
+
+/* CONTAINER */
+
+.container{
+    margin: 0 auto 0;
+    width: 800;
+}
+
+body{
+    border-top: 11px solid #55008e ;
+    background-color:#f7dfdfe5 ;
+}
+
+.header-nav{
+    background-color:#8087e62d ;
+    padding: 20px 40px;
+}
+
+nav {
+    font-size: 16px;
+    position:relative;
+    margin-right: 30px;
+}
+
+* a{
+    text-decoration:none;
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+a:hover{
+    font-weight: bold;
+    text-decoration:underline;
+    color: rgba(77, 2, 77, 0.747);
+}
+
+.screen-bold {
+    font-weight: bold;
+}
+
+.Display-li{
+    font-weight: bold;
+}
+
+.Related-Posst{
+    background-color: #a495e72d;
+    border-top: 8px double #0a1d44;
+    border-bottom: 8px double #0a1d44;
+    border-right: 6px dotted #0a1d44;
+    border-left: 6px dotted #0a1d44;
+}
+
+.Related-Posst h4{
+    text-align: center;
+    font-family:arial;
+}
+
+article h2{
+    margin-top: 50px;
+}
+
+article img{
+    margin-top: 20;
+}
+
+h2{
+    font-family:cursive;
+    color: #4062bb;
+}
+
+h3{
+    font-family: monospace;
+    color: #4062bb;
+    font-size: 20px;
+}
+
+* li{
+    font-family: sans-serif;
+}
+
+.written-rachel{
+    font-weight: bold;
+}
+
+ul p{
+    font-weight: bold;
+}
+
+.page-footer span{
+    margin-left: 262px;
+    font-family:arial;
+    color: rgba(15, 1, 1, 0.911);
+    font-weight:bold;
+    background-color: #f7f7f7;
+}
